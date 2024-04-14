@@ -1,0 +1,30 @@
+[
+  {
+    "id": "db8ef251d700cb15fbc3ac72",
+    "photo": "https://cdn-icons-png.flaticon.com/512/6326/6326055.png",
+    "email": "kocian_ana@hotmail.com",
+    "password": "Ana1234",
+    "role": 1
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac73",
+    "photo": "https://cdn-icons-png.flaticon.com/512/6326/6326055.png",
+    "email": "soler_Matilda@hotmail.com",
+    "password": "franco1234",
+    "role": 1
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac74",
+    "photo": "https://cdn-icons-png.flaticon.com/512/6326/6326055.png",
+    "email": "Franco@hotmail.com",
+    "password": "Ana1234",
+    "role": 1
+  },
+  {
+    "id": "efacb555f76e44038319f215",
+    "photo": "https://cdn-icons-png.flaticon.com/512/6326/6326055.png",
+    "email": "arturo@gmail",
+    "password": "arturo1234",
+    "role": 1
+  }
+]

@@ -1,0 +1,14 @@
+
+<div class="d-flex m-2" style=""width: 10rem;"">
+{{#if user}}
+ <div class="card" style="width: 18rem;">
+  <img src="{{user.photo}}" class="card-img-top" alt="{{user.email}}">
+  <div class="card-body">
+    <h5 class="card-title">{{user.email}}</h5>
+  </div>
+</div>
+{{else}}
+  <p>USER NOT FOUND</p>
+{{/if}}
+
+</div>

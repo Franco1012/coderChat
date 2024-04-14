@@ -1,0 +1,330 @@
+[
+  {
+    "id": "db8ef251d700cb15fbc3ac51",
+    "title": "zapatilla",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 75000,
+    "stock": 500
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac52",
+    "title": "remera",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 15000,
+    "stock": 200
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac53",
+    "title": "pantalón",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 30000,
+    "stock": 500
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac54",
+    "title": "bufanda",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 12000,
+    "stock": 150
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac55",
+    "title": "camisa",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 45000,
+    "stock": 300
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac56",
+    "title": "botas",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 95000,
+    "stock": 300
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac57",
+    "title": "pollera",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 25000,
+    "stock": 200
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac58",
+    "title": "short",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 45000,
+    "stock": 100
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac59",
+    "title": "gorra",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 15000,
+    "stock": 900
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac60",
+    "title": "cinto",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 25000,
+    "stock": 150
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac61",
+    "title": "sandalia",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 60000,
+    "stock": 250
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac62",
+    "title": "pantalón corto",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 18000,
+    "stock": 120
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac63",
+    "title": "mochila",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 40000,
+    "stock": 90
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac64",
+    "title": "falda",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 28000,
+    "stock": 110
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac65",
+    "title": "gafas de sol",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 30000,
+    "stock": 80
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac66",
+    "title": "abrigo",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 70000,
+    "stock": 70
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac67",
+    "title": "botines",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 90000,
+    "stock": 180
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac68",
+    "title": "suéter",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 35000,
+    "stock": 100
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac69",
+    "title": "zapatos",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 85000,
+    "stock": 50
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac70",
+    "title": "chanclas",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 45000,
+    "stock": 100
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac71",
+    "title": "chaqueta",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 120000,
+    "stock": 30
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac72",
+    "title": "bufanda de invierno",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 25000,
+    "stock": 150
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac73",
+    "title": "mochila de montaña",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 60000,
+    "stock": 80
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac74",
+    "title": "gafas de buceo",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 20000,
+    "stock": 120
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac75",
+    "title": "botas de senderismo",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 85000,
+    "stock": 50
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac76",
+    "title": "sandalias de playa",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 45000,
+    "stock": 100
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac77",
+    "title": "chaqueta de cuero",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 120000,
+    "stock": 30
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac78",
+    "title": "bufanda de lana",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 25000,
+    "stock": 150
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac79",
+    "title": "mochila de senderismo",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 60000,
+    "stock": 80
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac80",
+    "title": "gafas de natación",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 20000,
+    "stock": 120
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac81",
+    "title": "zapatos de vestir",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 80000,
+    "stock": 120
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac82",
+    "title": "zapatos deportivos",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "calzado",
+    "price": 70000,
+    "stock": 180
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac83",
+    "title": "calcetines",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 5000,
+    "stock": 300
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac84",
+    "title": "sombrero de paja",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 20000,
+    "stock": 100
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac85",
+    "title": "bandana",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 10000,
+    "stock": 200
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac86",
+    "title": "bufanda de seda",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 30000,
+    "stock": 80
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac87",
+    "title": "bikini",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 40000,
+    "stock": 50
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac88",
+    "title": "gafas de esquí",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 35000,
+    "stock": 70
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac89",
+    "title": "gorro de lana",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "ropa",
+    "price": 15000,
+    "stock": 100
+  },
+  {
+    "id": "db8ef251d700cb15fbc3ac90",
+    "title": "mochila de viaje",
+    "photo": "https://static.vecteezy.com/system/resources/previews/009/871/912/non_2x/sticker-set-hand-drawn-men-s-clothes-cartoon-illustration-vector.jpg",
+    "category": "accesorio",
+    "price": 60000,
+    "stock": 120
+  },
+  {
+    "id": "1aba4c489065585066be26f2",
+    "title": "ojota",
+    "photo": "https://www.davor.ar/wp-content/uploads/2023/02/OJOTA-HOMBRE-ESTAMPADA-TREND-CELESTE-1-scaled.jpg",
+    "category": "calzado",
+    "price": "5000",
+    "stock": "20"
+  }
+]

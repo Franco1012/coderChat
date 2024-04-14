@@ -1,0 +1,58 @@
+<h1 class="bg-success-subtle p-2 text-center text-success">Products</h1>
+<section class="d-flex">
+  <article class="d-flex flex-column align-items-center w-50">
+    <h1 class="text-center">ADD PRODUCTS</h1>
+    <form class="d-flex flex-column w-50">
+      <input
+        class="m-2"
+        type="text"
+        name="title"
+        id="title"
+        placeholder="TITLE"
+      />
+      <input
+        class="m-2"
+        type="text"
+        name="photo"
+        id="photo"
+        placeholder="PHOTO"
+      />
+      <input
+        class="m-2"
+        type="text"
+        name="category"
+        id="category"
+        placeholder="CATEGORY"
+      />
+      <input
+        class="m-2"
+        type="number"
+        name="price"
+        id="price"
+        placeholder="PRICE"
+      />
+      <input
+        class="m-2"
+        type="number"
+        name="stock"
+        id="stock"
+        placeholder="STOCK"
+      />
+      <input class="m-2" type="button" id="add" value="ADD" />
+
+    </form>
+  </article>
+  <article id="products" class="d-flex flex-wrap w-50">
+
+  </article>
+</section>
+
+<script
+  src="https://cdn.socket.io/4.7.5/socket.io.min.js"
+  integrity="sha384-2huaZvOR9iDzHqslqwpR87isEmrfxqyWOF7hr7BY6KG0+hVKLoEXMPUJw3ynWuhO"
+  crossorigin="anonymous"
+></script>
+
+<script src="/scripts/real.js">
+ 
+</script>
